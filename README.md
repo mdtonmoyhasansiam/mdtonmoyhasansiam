@@ -22,7 +22,6 @@
 <hr/>
 <img align="right" height="250" width="365" alt="" src="./gifs/10_coding_dribbble.gif" />
 
-<hr/>
 
 ![Md  Tonmoy Hasan Siam (1)](https://github.com/user-attachments/assets/03966c19-8d45-43bd-9374-57406f0b0157)
 
@@ -32,6 +31,8 @@
 - 🛠 &nbsp; I’m currently working with <strong>JS, React, Node, Express, MongoDB</strong>
 - 🚀 &nbsp; I’m currently exploring <strong></strong>
 - 📫 &nbsp; Reach me out: <strong>tonmoy.hasan13534@gmail.com</strong>
+
+<hr/>
 
 ### My Absolute Favorites:
 - 💻 &nbsp; I love exploring new technologies and building cool stuff.
