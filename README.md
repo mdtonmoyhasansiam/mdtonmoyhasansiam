@@ -28,8 +28,8 @@
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; I’m currently working with <strong>JS, React, Node, Express, MongoDB</strong>
-- 🚀 &nbsp; I’m currently exploring <strong></strong>
+- 🛠 &nbsp; I’m currently working with <strong>JS, React.js, Next.js Node, Express, MongoDB</strong>
+- 🚀 &nbsp; I’m currently exploring <strong>System Design, Advanced Next.js, Backend Scaling & Performance, and AWS Cloud fundamentals</strong>
 - 📫 &nbsp; Reach me out: <strong>tonmoy.hasan13534@gmail.com</strong>
 
 <hr/>
@@ -59,13 +59,34 @@
 ```javascript
 const mdTonmoyHasanSiam = {
   pronouns: "he/him",
-  code: ["JavaScript", "HTML", "CSS", "Tailwind CSS"],
-  tools: ["React", "Next", "Node.js"],
-  architecture: ["microservices", "event-driven"],
-  travelCommunities: {
-    coorganizer: "Bangladesh-Tourism-Board",
-    designation: "Sr. Tourist Guide & Host",
-    mentor: "Tour Guiding Management & Hosting"
+
+  techStack: {
+    languages: ["JavaScript", "HTML", "CSS"],
+    frontend: ["React", "Next.js", "Tailwind CSS"],
+    backend: ["Node.js", "Express.js"],
+    database: ["MongoDB"]
   },
-}
+
+  currentlyExploring: [
+    "System Design",
+    "Advanced Next.js",
+    "Backend Scalability & Performance",
+    "AWS Cloud Fundamentals"
+  ],
+
+  architecture: ["Microservices", "Event-Driven Architecture"],
+
+  interests: [
+    "Building scalable web applications",
+    "Problem solving",
+    "Exploring new technologies",
+    "Feature writing"
+  ],
+
+  travelCommunity: {
+    role: "Senior Tourist Guide & Host",
+    organization: "Bangladesh Tourism Board",
+    focus: "Tour Guiding Management & Hosting"
+  }
+};
 ```
