@@ -23,9 +23,6 @@
 <img align="right" height="250" width="365" src="https://c.tenor.com/5ry-200hErMAAAAd/programming-coding.gif" />
 
 
-![Md  Tonmoy Hasan Siam (1)](https://github.com/user-attachments/assets/03966c19-8d45-43bd-9374-57406f0b0157)
-
-
 ### Talking about Personal Stuff:
 
 - 🛠 &nbsp; I’m currently working with <strong>JavaScript, React, Next.js Node.js, Express.js, and MongoDB</strong>
