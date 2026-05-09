@@ -10,7 +10,7 @@
 
 
 <div align="center">
-  <strong>MERN Stack Web Engineer | Passionate Full-Stack Web Developer 👋 | Passionate About Turning Ideas into Real-World Project | Expert in JavaScript, React.js, Next.js, Node.js, Express.js | Crafting High-Performance Microservices, Scalable Web Apps with MongoDB 🌍 | Feature Writer | Tourist Guide & Host 💡</strong>
+  <strong>MERN Stack Web Engineer | Passionate Full-Stack Web Developer 👋 | Passionate About Turning Ideas into Real-World Project | Strong experience with JavaScript, React, Next.js, Node.js, Express.js, and MongoDB | Crafting High-Performance Microservices, Scalable Web Apps with MongoDB 🌍 | Feature Writer | Tourist Guide & Host 💡</strong>
 </div>
 <br/>
 <div align="center">
@@ -20,7 +20,7 @@
   <a href="mailto:tonmoy.hasan13534@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge"/></a>
 </div>
 <hr/>
-<img align="right" height="250" width="365" alt="" src="./gifs/10_coding_dribbble.gif" />
+<img align="right" height="250" width="365" src="https://c.tenor.com/5ry-200hErMAAAAd/programming-coding.gif" />
 
 
 ![Md  Tonmoy Hasan Siam (1)](https://github.com/user-attachments/assets/03966c19-8d45-43bd-9374-57406f0b0157)
@@ -28,7 +28,7 @@
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; I’m currently working with <strong>JS, React.js, Next.js Node, Express, MongoDB</strong>
+- 🛠 &nbsp; I’m currently working with <strong>JavaScript, React, Next.js Node.js, Express.js, and MongoDB</strong>
 - 🚀 &nbsp; I’m currently exploring <strong>System Design, Advanced Next.js, Backend Scaling & Performance, and AWS Cloud fundamentals</strong>
 - 📫 &nbsp; Reach me out: <strong>tonmoy.hasan13534@gmail.com</strong>
 
